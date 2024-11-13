@@ -13,4 +13,4 @@ I am proficient in programming languages such as Java and Python, with experienc
 
 You can find my CV here: [Jingjie Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:jingjie@upenn.seas.edu) / [Github](https://github.com/ChunYeDingYiLang) / [LinkedIn](https://www.linkedin.com/in/jingjie-ma-5b5005291)/ [Wechat](../images/wechat.jpg)
+[Email](mailto:jingjie@upenn.seas.edu) / [Github](https://github.com/ChunYeDingYiLang) / [LinkedIn](https://www.linkedin.com/in/jingjie-ma-5b5005291)/ [Wechat](https://github.com/ChunYeDingYiLang/Jingjie233.github.io/blob/master/assets/Curriculum_Vitae.pdf)
